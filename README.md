@@ -60,7 +60,6 @@ It contains the following columns:
 ## 📸 Sample Visualizations  
 
 Here are some sample outputs from the analysis:  
-![Top 10 Run Scorers](https://raw.githubusercontent.com/saurabhks001/odi-batting-eda/images/top_10_players_centuries.png)
 
 ![Top 10 players by centuries](images/top_10_players_centuries.png)  
 
