@@ -61,11 +61,11 @@ It contains the following columns:
 
 Here are some sample outputs from the analysis:  
 
-![Top 10 Run Scorers](images/top10_runs.png)  
+![Top 10 players by centuries](images/top_10_players_centuries.png)  
 
-![Correlation Heatmap](images/heatmap.png)  
+![strike_rate_distribution](images/strike_rate_distribution.png)  
 
-![Pairplot – Matches, Runs, Batting Average](images/pairplot.png)  
+![Bubbleplot – Matches, Runs, Batting Average](images/matches_vs_runs_vs_batting_average.png)  
 
 ---
 
