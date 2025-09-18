@@ -68,8 +68,8 @@ Here are some sample outputs from the analysis:
 ![Bubbleplot – Matches, Runs, Batting Average](images/matches_vs_runs_vs_batting_average.png)  
 
 ---
-
-## ▶️ How to Run this Project  
+<!--
+# ▶️ How to Run this Project  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/odi-batting-eda.git
@@ -77,8 +77,8 @@ Here are some sample outputs from the analysis:
 
 pip install -r requirements.txt
 
-jupyter notebook Cricket_EDA.ipynb
-
+jupyter notebook Cricket_EDA.ipynb 
+-->
 ---
 
 ## ✅ Conclusion  
@@ -99,5 +99,5 @@ It allows for better **player comparison, trend analysis, and strategy developme
 **Saurabh Shirole**  
 📧 Email: saurabhshirole1@gmail.com 
 
-🔗 [LinkedIn](www.linkedin.com/in/saurabh-shirole-19136a361) | [GitHub](https://github.com/saurabhks001)  
+🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-shirole-19136a361/) | [GitHub](https://github.com/saurabhks001)  
 
