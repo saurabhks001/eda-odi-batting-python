@@ -66,10 +66,11 @@ Here are some sample outputs from the analysis:
 
 ![Strike_rate_distribution](images/strike_rate_distribution.png)  
 
+[Bubbleplot – Matches, Runs, Batting Average](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/matches_vs_runs_vs_batting_average.png)
 
 
-![Bubbleplot – Matches, Runs, Batting Average](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/matches_vs_runs_vs_batting_average.png)  
-
+<!-- ![Bubbleplot – Matches, Runs, Batting Average](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/matches_vs_runs_vs_batting_average.png)  
+-->
 ---
 <!--
 # ▶️ How to Run this Project  
