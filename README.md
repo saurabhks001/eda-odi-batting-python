@@ -61,11 +61,11 @@ It contains the following columns:
 
 Here are some sample outputs from the analysis:  
 
-![Top 10 players by centuries](images/top_10_players_centuries.png)  
+![Top 10 players by centuries](./subfolder/images/top_10_players_centuries.png)  
 
-![Strike_rate_distribution](images/strike_rate_distribution.png)  
+![Strike_rate_distribution](./subfolder/images/strike_rate_distribution.png)  
 
-![Bubbleplot – Matches, Runs, Batting Average](images/matches_vs_runs_vs_batting_average.png)  
+![Bubbleplot – Matches, Runs, Batting Average](./subfolder/images/matches_vs_runs_vs_batting_average.png)  
 
 ---
 <!--
