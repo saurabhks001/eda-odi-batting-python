@@ -62,9 +62,9 @@ It contains the following columns:
 Here are some sample outputs from the analysis:  
 
 
-![Top 10 players by centuries](images/top_10_players_centuries.png)  
+[Top 10 players by centuries](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/top_10_players_centuries.png)  
 
-![Strike_rate_distribution](images/strike_rate_distribution.png)  
+[Strike_rate_distribution](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/strike_rate_distribution.png)  
 
 [Bubbleplot – Matches, Runs, Batting Average](https://github.com/saurabhks001/eda-odi-batting-python/blob/main/matches_vs_runs_vs_batting_average.png)
 
