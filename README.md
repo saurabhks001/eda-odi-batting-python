@@ -61,6 +61,7 @@ It contains the following columns:
 
 Here are some sample outputs from the analysis:  
 
+
 ![Top 10 players by centuries](images/top_10_players_centuries.png)  
 
 ![Strike_rate_distribution](images/strike_rate_distribution.png)  
