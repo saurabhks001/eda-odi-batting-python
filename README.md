@@ -105,3 +105,6 @@ It allows for better **player comparison, trend analysis, and strategy developme
 
 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-shirole-19136a361/) | [GitHub](https://github.com/saurabhks001)  
 
+---
+⭐ *If you find this project helpful, don’t forget to star the repository!*
+
